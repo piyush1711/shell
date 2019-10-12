@@ -1,0 +1,5 @@
+100 piyush  Sales       $5000
+200 lokesh  training    $6500
+300 sachin  Technology  $3500
+400 rohit   marketing   $5400
+500 virat   technology  $4500

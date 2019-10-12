@@ -1,0 +1,16 @@
+-rw-rw-r-- 1 student student 416 Oct  7 14:48 create_dir.sh
+-rw-rw-r-- 1 student student 255 Oct  7 15:45 createfileindir.sh
+-rw-rw-r-- 1 student student 188 Oct  7 16:06 declare.sh
+-rw-rw-r-- 1 student student 131 Oct  7 10:58 main.sh
+-rw-rw-r-- 1 student student 430 Oct  7 15:02 multidir.sh
+-rw-rw-r-- 1 student student 120 Oct  7 10:52 script1.sh
+-rw-rw-r-- 1 student student 223 Oct  7 12:09 userlogin_authentication.sh
+-rw-rw-r-- 1 student student 145 Oct  7 13:13 while.sh
+-rw-rw-r-- 1 student student 416 Oct  7 14:48 create_dir.sh
+-rw-rw-r-- 1 student student 255 Oct  7 15:45 createfileindir.sh
+-rw-rw-r-- 1 student student 188 Oct  7 16:06 declare.sh
+-rw-rw-r-- 1 student student 131 Oct  7 10:58 main.sh
+-rw-rw-r-- 1 student student 430 Oct  7 15:02 multidir.sh
+-rw-rw-r-- 1 student student 120 Oct  7 10:52 script1.sh
+-rw-rw-r-- 1 student student 223 Oct  7 12:09 userlogin_authentication.sh
+-rw-rw-r-- 1 student student 145 Oct  7 13:13 while.sh
