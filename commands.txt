@@ -1,0 +1,953 @@
+    1  nano arrayprocint(1).c
+    2  vim arrayprocint.c 
+    3  nano arrayprocint.c 
+    4  ./eclipse
+    5  ls
+    6  ./eclipse
+    7  eclipse
+    8  sudo apt install eclipse-platform
+    9  ./eclipse 
+   10  java
+   11  sudo apt install openjdk-8-jre-headless 
+   12  ls
+   13  ./eclipse 
+   14  gcc file.c
+   15  ./a.out
+   16  gcc file.c
+   17  ./a.out
+   18  cd
+   19  dekstop
+   20  kill 0
+   21  java
+   22  sql dbda12/dbda12@192.168.1.67/oracle
+   23  sqlplus dbda12/dbda12@192.168.1.67/oracle
+   24  sql plus dbda12/dbda12@192.168.1.67/oracle
+   25  sqlplus dbda12/dbda12@192.168.1.67/oracle
+   26  ./sqlplus.sh 
+   27  sqlplus dbda12/dbda12@192.168.1.67/oracle
+   28  gedit .profile
+   29  gedit .bash_profile
+   30  sqlplus dbda12/dbda12@192.168.1.67/oracle
+   31  ./java.sh
+   32  sh java.sh 
+   33  javac version
+   34  javac -version
+   35  ls -a
+   36  echo $PATH
+   37  javac -version;
+   38  javac -version
+   39  javac Hello.java
+   40  cd javaprogs
+   41  javac Hello.java
+   42  java Hello
+   43  javac DateDemo.java
+   44  java DateDemo
+   45  javac DateDemo.java
+   46  java DateDemo
+   47  javac DateDemo.java
+   48  java 
+   49  javac BoxCalc.java
+   50  java BoxCalc
+   51  javac Box.java
+   52  java Box
+   53  javac Box.java
+   54  java Box
+   55  javac BoxCalc.java
+   56  ls
+   57  java BoxCalc
+   58  java Box
+   59  javac Box.java
+   60  java Box
+   61  javac BoxCalc.java
+   62  java BoxCalc
+   63  javac BoxCalc.java
+   64  java BoxCalc
+   65  javac CircleCalc.java
+   66  java CircleCalc
+   67  javac CircleCalc.java
+   68  javac Person.java
+   69  javac PersonDate.java
+   70  javac Person.java
+   71  javac PersonDate.java
+   72  java PeronDate
+   73  java PersonDate
+   74  javac Book.java
+   75  javac Book1.java
+   76  java Book1
+   77  javac Book1.java
+   78  java Book1
+   79  javac Book1.java
+   80  java Book1
+   81  javac Student.java
+   82  javac StudentDemo.java
+   83  javac Student.java
+   84  javac StudentDemo.java
+   85  javac Student.java
+   86  javac StudentDemo.java
+   87  javac Student.java
+   88  javac StudentDemo.java
+   89  java StudentDemo
+   90  javac StudentDemo.java
+   91  java StudentDemo
+   92  javac Student.java
+   93  javac StudentDemo.java
+   94  java StudentDemo
+   95  javac StudentDemo.java
+   96  javac Stack.java
+   97  javac StackDemo.java
+   98  java StackDemo
+   99  javac StackDemo.java
+  100  java StackDemo
+  101  javac ColorPoint.java
+  102  java ColorPoint
+  103  javac ColorPointDemo.java
+  104  java ColorPointDemo
+  105  javac LineDemo.java
+  106  javac Line.java
+  107  javac LineDemo.java
+  108  java LineDemo
+  109  javac LineDemo.java
+  110  java LineDemo 10 20 red 30 40 blue
+  111  javac LineDemo.java
+  112  java LineDemo
+  113  javac LineDemo.java
+  114  java LineDemo
+  115  javac LineDemo.java
+  116  java LineDemo
+  117  javac LineDemo.java
+  118  java LineDemo
+  119  javac LineDemo.java
+  120  java LineDemo
+  121  javac LineDemo.java
+  122  java LineDemo
+  123  javac LineDemo.java
+  124  java LineDemo
+  125  javac LineDemo.java
+  126  java LineDemo
+  127  javac LineDemo.java
+  128  java LineDemo
+  129  sudo ./virtualbox-6.0_6.0.12-133076~Ubuntu~xenial_amd64.deb 
+  130  sudo apt-get install
+  131  sudo ./virtualbox-6.0_6.0.12-133076~Ubuntu~xenial_amd64.deb 
+  132  ./virtualbox-6.0_6.0.12-133076~Ubuntu~xenial_amd64.deb 
+  133  sudo apt-get -f install
+  134  sudo apt-get -i install
+  135  ./virtualbox-6.0_6.0.12-133076~Ubuntu~xenial_amd64.deb 
+  136  sudo apt-get -i install
+  137  sudo apt-get -f install
+  138  sudo apt autoremove 
+  139  sudo apt-get -f install
+  140  exit
+  141  sudo dpkg -i virtualbox-6.0_6.0.12-133076~Ubuntu~xenial_amd64.deb 
+  142  sudo apt-get -f install
+  143  javac Palindrome.java
+  144  java Palindrome
+  145  javac Palindrome.java
+  146  java Palindrome
+  147  javac Lucky
+  148  javac Lucky.java
+  149  java Lucky
+  150  javac Lucky.java
+  151  java Lucky
+  152  javac Lucky.java
+  153  java Lucky
+  154  javac Lucky.java
+  155  java Lucky
+  156  javac Lucky.java
+  157  java Lucky
+  158  javac Lucky.java
+  159  java Lucky
+  160  javac Lucky.java
+  161  java Lucky
+  162  javac Lucky.java
+  163  java Lucky
+  164  javac Lucky.java
+  165  java Lucky
+  166  javac Lucky.java
+  167  java Lucky
+  168  javac Lucky.java
+  169  java Lucky
+  170  javac Lucky.java
+  171  java Lucky
+  172  javac Lucky.java
+  173  java Lucky
+  174  javac Lucky.java
+  175  java Lucky
+  176  javac Lucky.java
+  177  java Lucky
+  178  javac Lucky.java
+  179  java Lucky
+  180  javac - d . Date.java
+  181  javac -d . Date.java
+  182  javac -d . Student.java
+  183  javac -d . Trainer.java
+  184  javac PackageApp.java
+  185  java PackageApp
+  186  javac PackageApp.java
+  187  export CLASSPATH=.
+  188  export CLASSPATH=.:/home/student/Documents
+  189  javac PackageApp.java
+  190  rm PackageApp.class
+  191  javac PackageApp.java
+  192  export CLASSPATH=.:/home/student/Documents
+  193  javac PackageApp.java
+  194  rm PackageApp.class
+  195  rm PackageApp.java
+  196  javac PackageApp.java
+  197  export CLASSPATH=.:/home/student/Documents
+  198  javac PackageApp.java
+  199  export CLASSPATH=.:/home/student/Documents
+  200  javac PackageApp.java
+  201  ls
+  202  rm PackageApp.class
+  203  ls
+  204  javac PackageApp.java
+  205  javac -d . Date.java
+  206  javac -d . Student.java
+  207  javac -d . Trainer.java
+  208  javac PackageApp.java
+  209  ls
+  210  echo $ECHOPATH:
+  211  ls
+  212  export CLASSPATH=.:/home/student/Documents
+  213  javac PackageApp.java
+  214  ls
+  215  java PackageApp
+  216  jar -cvf mylib.jar office utility
+  217  jar -cvf mylib.jar offive utility
+  218  ls
+  219  jar -tvf mylib.jar
+  220  javac PackageApp.java
+  221  ls
+  222  javac PackageApp.java
+  223  ls
+  224  jar -cvfm muapp.jar mf.txt offive PackageApp.class
+  225  ls
+  226  java -jar muapp.jar
+  227  ls
+  228  javac -d . Pacmzkage.java
+  229  javac -d . PackageApp.java
+  230  ls
+  231  javac  PackageApp.java
+  232  java  PackageApp
+  233  java  apps.PackageApp
+  234  ls
+  235  ping 
+  236  sudo apt-get install mongodb
+  237  mongo
+  238  mango
+  239  mongo
+  240  sudo service mongod start
+  241  mongo
+  242  sqlplus dbda12/dbda12@192.168.1.67/oracle
+  243  mongo
+  244  mongo
+  245  sudo service mongod start
+  246  mongo
+  247  sqlplus dbda12/dbda12@192.168.1.67/oracle
+  248  sudo service mongod start
+  249  mongo
+  250  mongoimport --db aug_dba --collection rest -- drop --file primer -dataset.json --jsonArray
+  251  mongo
+  252  sudo mongod service start
+  253  mongo
+  254  sudo mongod service start
+  255  mongoimport --db aug_dba --collection rest --drop --file dataset.json --jsonArray
+  256  mongo
+  257  sqlplus dbda12/dbda12@192.168.1.67/oracle
+  258  sqlplus dbda12/dbda12@192.168.1.67/oracle
+  259  sqlplus dbda7/dbda12@192.168.1.67/oracle
+  260  sqlplus dbda7/dbda7@192.168.1.67/oracle
+  261  sudo service mongod start
+  262  sudo service mongodb start
+  263  mongo
+  264  mongod
+  265  mongo
+  266  ipconfig
+  267  ifconfig
+  268  pwd
+  269  scp -r 1.vdi student@192.168.1.16:~/Softwares
+  270  scp -r 1.vdi student@192.168.1.19:~/Softwares
+  271  sudo ./xa
+  272  /
+  273  ls
+  274  sudo /opt/lampp
+  275  sudo /opt/lampp/unistall
+  276  sudo /opt/lampp/uninstall
+  277  cd softwares
+  278  cd eclipse\ 
+  279  ls
+  280  sudo ./xampp-linux-x64-5.6.40-1-installer.run 
+  281  sudo apt-get update
+  282  sudo apt-get update-all
+  283  exit
+  284  cd softwares/
+  285  ls
+  286  sudo bash mysql-connector-java-5.0.8-bin.jar 
+  287  sudo bash mysql-workbench-community-6.3.10-1ubuntu16.04-amd64.deb 
+  288  sudo apt-get update
+  289  ping 192.168.1.66
+  290  ls
+  291  bash mysql-workbench-community-6.3.10-1ubuntu16.04-amd64.deb
+  292  sudo bash mysql-workbench-community-6.3.10-1ubuntu16.04-amd64.deb
+  293  sudo apt-get update
+  294  mysql
+  295  reboot
+  296  sudo apt-get update
+  297  ls
+  298  cd /
+  299  ls
+  300  cd home
+  301  ls
+  302  cd
+  303  ls
+  304  sudo bash mysql-workbench-community-6.3.10-1ubuntu16.04-amd64.deb 
+  305  sudo apt-get install gksu
+  306  gksu gedit /usr/share/applications/xampp-control-panel.desktop
+  307  sqlplus dbda7/dbda12@192.168.1.67/oracle
+  308  sqlplus dbda7/dbda7@192.168.1.67/oracle
+  309  sudo service mongod start
+  310  mongo
+  311  sqlplus dbda7/dbda7@192.168.1.67/oracle
+  312  reboot
+  313  whoami
+  314  $ cat /etc/os-release
+  315  cat /etc/os-release
+  316  touch hello.txt
+  317  nano hello.txt
+  318  cat hello.txt
+  319  ls -l
+  320  man ls
+  321  pwd
+  322  sudo apt update
+  323  hostname
+  324  uname
+  325  ps
+  326  last reboot
+  327  history
+  328  history -5
+  329  history
+  330  reboot
+  331  last reboot
+  332  uptime
+  333  date
+  334  time
+  335  cal
+  336  man date
+  337  date %d
+  338  date -%d
+  339  man date
+  340  date -d
+  341  date %D
+  342  date -%D
+  343  date +%D
+  344  date +%X
+  345  date +%m
+  346  date +%y
+  347  date +%x
+  348  date +%b
+  349  date +%a
+  350  date +%n
+  351  date +%l
+  352  date +%f
+  353  date +%H
+  354  date +%O
+  355  line
+  356  out
+  357  free -m
+  358  who
+  359  id
+  360  last 
+  361  add 
+  362  man useradd
+  363  sudo useradd piyush
+  364  sudo useradd lokesh
+  365  who
+  366  id
+  367  ifconfig
+  368  man ifconfig
+  369  ifconfig -s
+  370  ifconfig -a
+  371  ifconfig -s
+  372  ping 192.168.1.13
+  373  mkdir piyush
+  374  touch ab.txt abc.txt abcd.txt
+  375  ls
+  376  pwd
+  377  cd piyush
+  378  ls
+  379  touch ab.txt
+  380  ls
+  381  whois domain
+  382  sudo apt install whois
+  383  whois domain
+  384  vi t.txt
+  385  vim t.txt
+  386  sudo apt install vim
+  387  pwd
+  388  cd student
+  389  root
+  390  gcc --v
+  391  gcc -v
+  392  cd home
+  393  cd 
+  394  mkdir programs
+  395  cd programs
+  396  mkdir c
+  397  mkdir cpp
+  398  mkdir java
+  399  mkdir pilab
+  400  ls
+  401  touch hello.txt
+  402  cd
+  403  cd programs
+  404  cd c
+  405  touch search.c collections.c
+  406  ls
+  407  touch hello.c
+  408  ls
+  409  touch hello.c
+  410  ls
+  411  vi hello.c
+  412  gcc hello.c
+  413  vi hello.c
+  414  cc hello.c
+  415  vi hello.c
+  416  nano hello.c
+  417  gcc hello.c
+  418  cat hello.c
+  419  cc hello.c
+  420  sudo apt install gcc
+  421  gcc hello.c
+  422  nano hello.c
+  423  gcc hello.c
+  424  nano hello.c
+  425  gcc hello.c
+  426  nano hello.c
+  427  gcc hello.c
+  428  ./a.out
+  429  nano hello.c
+  430  gcc hello.c
+  431  ./a.out
+  432  cd
+  433  cd prorgams
+  434  cd programs
+  435  cd cpp
+  436  touch 1.cpp
+  437  nano 1.cpp
+  438  ls
+  439  g++ 1.cpp
+  440  nano 1.cpp
+  441  g++ 1.cpp
+  442  nano 1.cpp
+  443  g++ 1.cpp
+  444  cat 1.cpp
+  445  nano 1.cpp
+  446  cd ..
+  447  java -version
+  448  java --version
+  449  java -version
+  450  sudo apt install default -jre
+  451  sudo apt install default-jre
+  452  java --version
+  453  java -version
+  454  find a.txt
+  455  find *.txt
+  456  rm abcd.txt
+  457  find *.txt
+  458  man find
+  459  find *.c
+  460  locate *.c
+  461  locate *.cpp
+  462  find /home/student/programs *.c
+  463  find /home/student/programs '*.c'
+  464  locate /home/student/programs *.c
+  465  find /home/student/programs '*.c'
+  466  cd /home/student/programs 
+  467  locate *.c
+  468  find *.c
+  469  find c*.c
+  470  ls
+  471  cd c
+  472  find c*.c
+  473  find *.c
+  474  cp hello.c bye.txt
+  475  ls
+  476  cp hello.c programs/cpp bye.txt
+  477  cp hello.c bye.txt /programs/cpp
+  478  cp hello.c bye.txt cpp
+  479  cp hello.c bye.txt c
+  480  diff hello.c bye.txt
+  481  diff hello.c collction.txt
+  482  diff hello.c collction.c
+  483  diff hello.c collctions.c
+  484  diff hello.c collections.c
+  485  nano collection.c
+  486  diff hello.c collections.c
+  487  merge hello.c bye.txt
+  488  cat hello.c bye.txt
+  489  cd anna
+  490  ps
+  491  ps-d
+  492  man ps
+  493  ps -eM
+  494  man mem
+  495  mknod
+  496  mknod(2)
+  497  mknod(1)
+  498  mknod(k)
+  499  cat /proc/cpuinfo
+  500  cat /proc/meminfo
+  501  ls --format single-column
+  502  ls --format comma
+  503  ls -ltr
+  504  man ls
+  505  ls -lt
+  506  ls -t
+  507  ls -T
+  508  man ls
+  509  ls --block-size
+  510  man ls
+  511  ls --block-size='M'
+  512  man ls
+  513  ls -size
+  514  ls -s
+  515  ls --size
+  516  ls --size javaprogs
+  517  man ls
+  518  ls -S
+  519  ls -sS
+  520  ls -sSr
+  521  man ls
+  522  ls -sSr--format single-column
+  523  ls -*.txt
+  524  man ls
+  525  find *.txt
+  526  find -s*.txt
+  527  man ls
+  528  ls -d
+  529  ls -a
+  530  ls -b
+  531  ls -k
+  532  ls -p
+  533  man ls
+  534  ls -a
+  535  dir -a
+  536  dir -A
+  537  ls --hide=*.txt
+  538  ls --hide=marks.csv
+  539  ls --move=marks.csv
+  540  cat 
+  541  man cat
+  542  cat helli.txt
+  543  cat hello.txt
+  544  cat hello.txt lokesh.txt
+  545  cat hello.txt lokesh.txt>>newcont.txt
+  546  cat newcont.txt
+  547  ls >> myresult.txt
+  548  cat myresult.txt
+  549  history>allcommnands.txt
+  550  cat allcommnands.txt
+  551  echo "Welcome to show output on standard" >> data.txt
+  552  cat data.txt
+  553  read count
+  554  echo "$count"
+  555  read count
+  556  echo "$count"
+  557  read lokesh
+  558  echo "$lokesh"
+  559  echo "lokesh=$pi"
+  560  echo "$pi"
+  561  echo "lokesh=$pi"
+  562  mkdir office
+  563  mv *.txt /home/student/office
+  564  ls office
+  565  ls 
+  566  rm -r music
+  567  rm -r Music
+  568  cp *.txt /home/student/Documents
+  569  cd office
+  570  ls
+  571  nano ab.txt
+  572  nano aba.txt
+  573  nano ap.txt
+  574  man zip
+  575  zip ab.txt
+  576  gzip ab.txt
+  577  ls
+  578  gzip abc.txt c.txt
+  579  ls
+  580  gunzip ab.txt.gz
+  581  ls
+  582  gunzip c.txt.gz
+  583  gunzip abc.txt.gz
+  584  ls
+  585  man tar
+  586  gzip k.txt -k
+  587  ls
+  588  clear
+  589  gunzip k.txt.gz
+  590  cd office
+  591  ls
+  592  tar archive abc.txt a.txt
+  593  tar --archive abc.txt a.txt
+  594  man tar
+  595  tar  -czf tarfile.gz ab.txt aba.txt
+  596  ls
+  597  tar tarfile2.gz *.txt
+  598  tar -tf tarfile.gz
+  599  rm *.txt
+  600  ls
+  601  tar tarfile.gz
+  602  tar -x tarfile.gz
+  603  tar -xf tarfile.gz
+  604  ls
+  605  tar -xvf tarfile.gz
+  606  ls
+  607  mkdir company
+  608  rm -r  company
+  609  cd
+  610  mkdir company
+  611  cd office
+  612  ls
+  613  tar -xf tarfile.gz -C /home/student/company/
+  614  tar -xvf tarfile.gz -C /home/student/company/
+  615  cd
+  616  cd company/
+  617  ls
+  618  touch ab.xml
+  619  nano ab.xml
+  620  ls
+  621  tar -czf archive.tar.gz ab.xml aba.txt
+  622  ls
+  623  tar -xf archive.tar.gz ab.xml aba.txt
+  624  ls
+  625  cat archive.tar.gz 
+  626  cat ab.txt
+  627  find -s ab.txt
+  628  find -S ab.txt
+  629  ls -S ab.txt
+  630  ls -s ab.txt
+  631  ls -s company
+  632  cd
+  633  ls
+  634  ls -s
+  635  ls -s classesjava/
+  636  ls -S classesjava/
+  637  ls -s classesjava/
+  638  ls -sx classesjava/
+  639  cd office/
+  640  ls
+  641  rm *.txt
+  642  ls
+  643  tar -xvf tarfile.gz
+  644  tar -xvf tarfile.gz ab.txt
+  645  tar -xf tarfile.gz ab.txt
+  646  tar -xvf tarfile.gz ab.txt
+  647  ls
+  648  tar -x tarfile.gz aba.txt
+  649  tar -xf tarfile.gz aba.txt
+  650  tar -xvf tarfile.gz aba.txt
+  651  history
+  652  man history 
+  653  who
+  654  man who
+  655  who -a
+  656  man who
+  657  who -q
+  658  man who
+  659  who -u
+  660  who -all
+  661  man 
+  662  man who
+  663  w
+  664  getent passwd
+  665  compgen -u
+  666  finger
+  667  sudo apt install finger
+  668  finger
+  669  finger @alcat
+  670  hostname
+  671  finger @student-OptiPlex-7010
+  672  getent passwd | grep *
+  673  getent passwd | grep .*
+  674  getent passwd | grep *.
+  675  getent passwd | grep student
+  676  getent passwd | grep student | grep piysrh
+  677  getent passwd | grep student,piyush
+  678  getent passwd | grep piyush
+  679  sudo useradd
+  680  sudo useradd user1
+  681  sudo useradd user1 -p 1234
+  682  sudo useradd user2 -p 1234
+  683  sudo useradd user3 -p 1234
+  684  sudo useradd user4 -p 1234
+  685  sudo remove user1
+  686  sudo rm user1
+  687  sudo -rm user1
+  688  sudo -rmuser user1
+  689  sudo userrmodve
+  690  sudo userremove
+  691  sudo removeuser
+  692  sudo adduser user4
+  693  sudo adduser user5
+  694  sudo adduser user6
+  695  switch user
+  696  userdel user1
+  697  su user5
+  698  piyush
+  699  exit
+  700  ls
+  701  ls -lt
+  702  cd demo/
+  703  ls
+  704  cd ..
+  705  cd Documents/
+  706  ls
+  707  cd demo/
+  708  ls
+  709  cd a/
+  710  ls
+  711  cd ..
+  712  ls
+  713  cd 
+  714  cd dem
+  715  ls
+  716  rm demo/
+  717  rm -r demo/
+  718  ls
+  719  rm a
+  720  rm a.txt 
+  721  ls
+  722  rm -r a
+  723  ls
+  724  gzip *.txt
+  725  ls
+  726  gunzip b.txt.gz 
+  727  ls
+  728  gunzip c.txt.gz -k
+  729  ls
+  730  gunzip c.txt.gz -k /home/student/demo/b
+  731  gunzip c.txt.gz -k /home/student/demo/b/
+  732  gunzip c.txt.gz -k -C /home/student/demo/b/
+  733  gunzip c.txt.gz -k -d /home/student/demo/b/
+  734  cd
+  735  ssh student@192.168.1.13
+  736  cat /proc/cpuinfo 
+  737  free -m
+  738  ps
+  739  cat /proc/cpuinfo 
+  740  cat /proc/meminfo 
+  741  ls
+  742  cd demo/
+  743  ls
+  744  cd ..
+  745  ls
+  746  ls --format single-column
+  747  ls --format comma
+  748  ls -ltr
+  749  ls -a
+  750  ls -ltr
+  751  man ls
+  752  ls -ltr
+  753  ls -lt
+  754  ls -l
+  755  ls -sh
+  756  man ls
+  757  ls -s
+  758  ls -s demo/
+  759  ls -sh demo/
+  760  ls --size demo/
+  761  ls -h --size demo/
+  762  man ls
+  763  ls -sh
+  764  ls -shS
+  765  ls -S
+  766  ls
+  767  ls -S
+  768  ls *.json
+  769  man ls
+  770  ls --hide=*.json
+  771  ls --hide=examles.desktop
+  772  ls --hide= Documents/
+  773  ls --hide=Documents/
+  774  ls --hide= *.jar
+  775  ls --hide=*.jar
+  776  ls --hide=/
+  777  ls --hide=Documents
+  778  ls --hide=Documents/
+  779  ls --hide=Documents
+  780  ls
+  781  ls >> a.txt
+  782  ls
+  783  cat a.txt 
+  784  echo "hi"
+  785  read a
+  786  echo a
+  787  echo $a
+  788  read c
+  789  echo $c
+  790  echo "hi" >> a.txt
+  791  cat a.txt 
+  792  echo "hi" >> a.txt
+  793  cat a.txt 
+  794  echo "hii" > a.txt
+  795  cat a.txt 
+  796  echo "hiio" > a.txt
+  797  cat a.txt 
+  798  echo "hii" >> a.txt
+  799  cat a.txt 
+  800  ls
+  801  cp *.json demo/
+  802  cp demo/ Documents/
+  803  cp -r demo/ Documents/
+  804  mkdir dem
+  805  cp dem Documents/
+  806  cp dem/ Documents/
+  807  cp -r dem Documents/
+  808  cd dem
+  809  ls
+  810  cd ..
+  811  cp demo/ dem
+  812  cp -r demo/ dem
+  813  cp -r demo/* dem
+  814  cd demo/
+  815  ls
+  816  mkdir b
+  817  ls
+  818  cd b
+  819  pwd
+  820  ls
+  821  n
+  822  ls
+  823  history
+  824  ssh 192.168.1.38
+  825  ssh @192.168.1.38
+  826  ssh student@192.168.1.22
+  827  ssh student@192.168.1.10
+  828  su 
+  829  su student
+  830  su students
+  831  su student
+  832  ssh welcome@192.168.1.10
+  833  ssh welcome@192.168.1.34
+  834  ssh student@192.168.1.34
+  835  ssh student@192.168.1.12
+  836  add group 
+  837  addgroup
+  838  sudo addgroup engg
+  839  sudo apt-get install gnome-system-tools
+  840  users-admin
+  841  ls
+  842  mkdir scriptsr
+  843  mkdir scripts
+  844  rm -r scriptsr
+  845  cd piyush
+  846  mkdir shellscript
+  847  cd shellscript
+  848  touch hello.sh
+  849  nano hello.sh
+  850  exec hello.sh
+  851  bash hello.sh
+  852  chmod -x -d hello.sh
+  853  chmod -x hello.sh
+  854  chmod 777 hello.sh
+  855  ./hello.sh
+  856  chmod -ed hello.sh
+  857  chmod +x hello.sh
+  858  ./hello.sh
+  859  nano hello.sh
+  860  chmod +x hello.sh
+  861  ./hello.sh
+  862  nano hello.sh
+  863  chmod +x hello.sh
+  864  ./hello.sh
+  865  nano hello.sh
+  866  chmod +x hello.sh
+  867  ./hello.sh
+  868  nano hello.sh
+  869  chmod +x hello.sh
+  870  ./hello.sh
+  871  nano hello.sh
+  872  chmod +x hello.sh
+  873  ./hello.sh
+  874  nano hello.sh
+  875  cat hello.sh
+  876  nano hello.sh
+  877  cat hello.sh
+  878  chmod +x hello.sh
+  879  ./hello.sh
+  880  nano hello.sh
+  881  chmod +x hello.sh
+  882  ./hello.sh
+  883  nano hello.sh
+  884  chmod +x hello.sh
+  885  ./hello.sh
+  886  nano hello.sh
+  887  cat hello.sh
+  888  chmod +x hello.sh
+  889  ./hello.sh
+  890  nano hello.sh
+  891  chmod +x hello.sh
+  892  ./hello.sh
+  893  vi hello.sh
+  894  touch aboutlinux.txt
+  895  vi aboutlinux.txt
+  896  cd
+  897  sudo apt-get update
+  898  sudo apt-get install code
+  899  sudo apt-get install vscode
+  900  curl https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > microsoft.gpg
+  901  nano hello.sh
+  902  vi hello.sh
+  903  sudo snap install --classic code 
+  904  nano   [B
+  905  touch add.sh
+  906  nano add.sh
+  907  bash add.sh
+  908  nano add.sh
+  909  bash add.sh
+  910  nano add.sh
+  911  bash add.sh
+  912  ls
+  913  cat abc.txt
+  914  nano add.sh
+  915  cat last5.txt
+  916  bash add.sh
+  917  cat last5.txt
+  918  nano add.sh
+  919  bash add.sh
+  920  cat last5.txt
+  921  ls
+  922  cat last5.txt 
+  923  nano last5.txt 
+  924  nano add.sh
+  925  bash add.sh
+  926  cat last5.txt 
+  927  nano add.sh
+  928  bash add.sh
+  929  nano add.sh
+  930  bash add.sh
+  931  nano add.sh
+  932  bash add.sh
+  933  ls
+  934  cat merge.txt
+  935  history 1
+  936  history 15 >>last15.txt
+  937  cat last15.txt 
+  938  history
+  939  ls
+  940  ifconfig
+  941  ls
+  942  nano add.sh
+  943  ifconfig
+  944  history 
+  945  nano add.txt
+  946  nano his.txt
+  947  touch newhistory.txt
+  948  bash his.txt
+  949  cat newhistory.txt 
+  950  nano his.txt
+  951  bash his.sh
+  952  cat newhistory.txt 
+  953  history >>commands.txt
